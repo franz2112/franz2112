@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 -->
 
 
-
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="19" height="19" /> I am Francis, a recent graduate with a Bachelor's degree in Information Technology. Just starting out in web development,and I am passionate about multimedia and web technologies. My goal is to create user-friendly websites and high-quality work that exceeds clients' expectations. With expertise in design and development, I am eager to contribute to exciting projects and collaborate with talented professionals, leveraging my technical skills and creativity in the multimedia and web development industry.
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Magnifying%20Glass%20Tilted%20Left.png" alt="Magnifying Glass Tilted Left" width="15" height="15" /> Connect with me
