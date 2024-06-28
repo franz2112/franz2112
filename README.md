@@ -1,3 +1,5 @@
+![Header](./franz-bg.png)
+
 ## Hi there 👋
 
 <!--
@@ -15,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!--  ![Header](./bbaker-gh-image.png) -->
+
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="19" height="19" /> I am Francis Solmayor, a graduate with a Bachelor's degree in Information Technology. With a strong passion for multimedia and web development, I aim to deliver user-friendly websites and high-quality work that meets clients' needs. With expertise in designing and developing, I am eager to contribute to exciting projects and collaborate with talented professionals, leveraging my technical skills and creativity in the multimedia and web development industry.
 
